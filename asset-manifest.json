@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/atlant/static/css/main.35b98ace.css",
+    "main.js": "/atlant/static/js/main.2be77200.js",
+    "static/media/avto.png": "/atlant/static/media/avto.8bd70bc0abda53e30da7.png",
+    "static/media/avatar.png": "/atlant/static/media/avatar.a62e6d2d2c14baf7dee0.png",
+    "static/media/price.png": "/atlant/static/media/price.de51b74351d94e5ba6fe.png",
+    "static/media/avto2.png": "/atlant/static/media/avto2.d9de6ed05a28c48abe4d.png",
+    "static/media/avto3.png": "/atlant/static/media/avto3.9857fadc00e88be95c88.png",
+    "static/media/avto1.png": "/atlant/static/media/avto1.86a239263b5bf260fd0d.png",
+    "static/media/avto4.png": "/atlant/static/media/avto4.928f0511e003d94a8703.png",
+    "static/media/valentina.png": "/atlant/static/media/valentina.61bc789ccff73c17e155.png",
+    "static/media/oleg.png": "/atlant/static/media/oleg.c9a7cced651cd092a4be.png",
+    "static/media/irina.png": "/atlant/static/media/irina.7772d9fdd1f0b4266e90.png",
+    "static/media/card6.png": "/atlant/static/media/card6.d8d30b34fe7ee5b13e50.png",
+    "static/media/card1.png": "/atlant/static/media/card1.cdc843125552cc9b3362.png",
+    "static/media/card.png": "/atlant/static/media/card.e557e7c004d3ce76a2c6.png",
+    "static/media/card7.png": "/atlant/static/media/card7.6bde603eaad288e61bfc.png",
+    "static/media/Logo.svg": "/atlant/static/media/Logo.c3111e566d803758d7da17a267c0f447.svg",
+    "index.html": "/atlant/index.html",
+    "main.35b98ace.css.map": "/atlant/static/css/main.35b98ace.css.map",
+    "main.2be77200.js.map": "/atlant/static/js/main.2be77200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b98ace.css",
+    "static/js/main.2be77200.js"
+  ]
+}
