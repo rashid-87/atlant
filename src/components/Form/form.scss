@@ -1,0 +1,46 @@
+.form {
+  &__post {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    gap: 15px;
+  }
+  &__name {
+    width: 100%;
+    border: none;
+    background: none;
+    padding: 15px 0px 15px 20px;
+    color: var(--color-desc);
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid var(--color-form);
+  }
+  &__red {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  &__btn {
+    padding: 10px 0;
+    margin-bottom: 20px;
+    display: inline-block;
+    border: none;
+    background: none;
+    color: var(--color-desc);
+    font-size: 22px;
+    border-radius: 10px;
+    background: var(--color-text);
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  &__btn:hover {
+    background: var(--color-tekst);
+    color: var(--color-text);
+    transition: 0.3s;
+  }
+  &__btn:active {
+    color: var(--color-desc);
+    background: var(--color-text);
+  }
+}

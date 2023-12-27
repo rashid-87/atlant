@@ -1,0 +1,66 @@
+.advantages {
+  padding: 50px 0;
+  &__title {
+    margin-bottom: 20px;
+    color: var(--color-desc);
+    text-align: center;
+    font-size: 36px;
+  }
+  &__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    justify-items: center;
+    gap: 15px 30px;
+    text-align: center;
+  }
+  &__card {
+    padding: 30px;
+    border: 1px solid var(--color-text);
+    border-radius: 10px;
+  }
+  &__text {
+    margin: 10px 0 15px 0;
+    color: var(--color-text);
+    font-size: 24px;
+  }
+  &__desc {
+    color: var(--color-desc);
+    font-size: 16px;
+  }
+}
+@media (max-width: 850px) {
+  .advantages {
+    padding: 30px 0;
+    &__title {
+      font-size: 30px;
+    }
+    &__wrapper {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+    &__card {
+      padding: 40px;
+    }
+  }
+}
+@media (max-width: 625px) {
+  .advantages {
+    &__wrapper {
+      grid-template-columns: 1fr;
+    }
+    &__title {
+      font-size: 27px;
+    }
+    &__card {
+      width: 100%;
+      padding: 30px;
+    }
+    &__text {
+      font-size: 22px;
+    }
+    &__desc {
+      font-size: 15px;
+    }
+  }
+}

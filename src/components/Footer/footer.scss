@@ -1,0 +1,13 @@
+.footer {
+  margin-bottom: 50px;
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px 30px;
+  }
+  &__text {
+    color: var(--color-desc);
+    font-size: 15px;
+  }
+}
