@@ -1,5 +1,5 @@
 ## Одностраничный сайт лендинг.
 ## Использовано библиотека React js.
-### props, useState, react-icons, swiper.
+### props, useState, useForm, react-icons, swiper.
 ### scss, с адаптивам
-##  https://rashid-87.github.io/atlant/
+## ссылка  https://rashid-87.github.io/atlant/
